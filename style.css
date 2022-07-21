@@ -53,7 +53,7 @@ h1 {
 /* Browser */
 @media (min-width: 992px) {
   .col {
-    width: 32%;
+    width: 30%;
     float: left;
   }
 }
